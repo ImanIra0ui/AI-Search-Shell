@@ -1,0 +1,6 @@
+kenitra meknes 7
+casa marrakech 9
+azrou settat 20
+kenitra casa 80
+azrou meknes 69
+settat kenitra 260
